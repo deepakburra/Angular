@@ -203,6 +203,23 @@
       "cellulartechnology": "5G",
       "emi" : 1284,
       "fullname" : "OnePlus Nord CE 3 5G (Chromatic Gray, 8GB RAM, 128GB Storage)"
+    },
+    {
+      "id": 13,
+      "image": "https://m.media-amazon.com/images/I/5144CWEcJYL._SX679_.jpg",
+      "brand": "Infinix",
+      "title": "Infinix Hot 10",
+      "actualprice": 10999,
+      "discount": 22,
+      "finalprice": 8580,
+      "ram1": 4,
+      "storage1": 64,
+      "ram2": 8,
+      "storage2": 128,
+      "operatingsystem" : "'Android 4.0",
+      "cellulartechnology": "4G",
+      "emi" : 482,
+      "fullname" : "Infinix Hot 10 Play (Blue, 4GB RAM, 64GB Storage)"
     }
   ]
 }
